@@ -1,0 +1,26 @@
+2020-10-01T16:33:18+00:00 CRITICAL Cannot redeclare wc_get_product_brand_list() (previously declared in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php:953) in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php on line 953
+
+2020-10-01T16:33:28+00:00 CRITICAL Cannot redeclare wc_get_product_brand_list() (previously declared in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php:953) in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php on line 953
+
+2020-10-01T16:33:44+00:00 CRITICAL Cannot redeclare wc_get_product_brand_list() (previously declared in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php:953) in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php on line 953
+
+2020-10-01T16:33:46+00:00 CRITICAL Cannot redeclare wc_get_product_brand_list() (previously declared in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php:953) in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php on line 953
+
+2020-10-01T16:35:05+00:00 CRITICAL Cannot redeclare wc_get_product_brand_list() (previously declared in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php:953) in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php on line 953
+
+2020-10-01T16:35:10+00:00 CRITICAL Cannot redeclare wc_get_product_brand_list() (previously declared in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php:953) in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php on line 953
+
+2020-10-01T16:36:04+00:00 CRITICAL Cannot redeclare wc_get_product_brand_list() (previously declared in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php:953) in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php on line 953
+
+2020-10-01T16:41:49+00:00 CRITICAL Cannot redeclare wc_get_product_brand_list() (previously declared in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php:953) in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php on line 953
+
+2020-10-01T16:43:25+00:00 CRITICAL Cannot redeclare wc_get_product_brand_list() (previously declared in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php:953) in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php on line 953
+
+2020-10-01T16:46:46+00:00 CRITICAL Cannot redeclare shopical_woocommerce_setup() (previously declared in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php:20) in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php on line 24
+
+2020-10-01T16:47:24+00:00 CRITICAL Cannot redeclare shopical_woocommerce_shop_loop_subcategory_title() (previously declared in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php:903) in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php on line 903
+
+2020-10-01T16:48:29+00:00 CRITICAL Cannot redeclare shopical_woocommerce_setup() (previously declared in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php:21) in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php on line 24
+
+2020-10-01T16:49:19+00:00 CRITICAL Cannot redeclare shopical_body_class() (previously declared in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php:889) in /var/www/html/laravel/public/gruporoga_wp_2/wp-content/themes/shopical/inc/woocommerce.php on line 889
+
